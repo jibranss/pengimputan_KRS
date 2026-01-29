@@ -1,0 +1,4 @@
+body { background-color: #f8f9fa; }
+.card { border-radius: 10px; }
+.matkul-card { cursor: pointer; transition: 0.3s; }
+.matkul-card:hover { transform: scale(1.05); }
